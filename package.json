@@ -1,0 +1,23 @@
+{
+  "name": "practicekeygenerator",
+  "version": "1.0.0",
+  "description": "Practice Key Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandraJessica/practiceKeyGenerator.git"
+  },
+  "author": "Sandra Wittek & Julian Wittek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandraJessica/practiceKeyGenerator/issues"
+  },
+  "homepage": "https://github.com/sandraJessica/practiceKeyGenerator#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.1"
+  }
+}
